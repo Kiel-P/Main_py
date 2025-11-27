@@ -4,7 +4,7 @@ set -e
 REPO_URL="https://github.com/Kiel-P/Main_py/blob/main/main.py"
 TARGET="$HOME/main.py"
 BASHRC="$HOME/.bashrc"
-MARKER="# MENUTRMX-AUTO-MENU"
+MARKER="# Main_py-AUTO-MENU"
 
 echo "[1/4] Install dependencies..."
 pkg update -y >/dev/null
